@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Starca\\angular\\server\\AuthAPI\\AuthAPI\\AuthAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Starca\\angular\\server\\AuthAPI\\AuthAPI.csproj",
       "projectName": "AuthAPI",
-      "projectPath": "C:\\Users\\Starca\\angular\\server\\AuthAPI\\AuthAPI\\AuthAPI.csproj",
+      "projectPath": "C:\\Users\\Starca\\angular\\server\\AuthAPI\\AuthAPI.csproj",
       "packagesPath": "C:\\Users\\Starca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Starca\\angular\\server\\AuthAPI\\AuthAPI\\obj\\",
+      "outputPath": "C:\\Users\\Starca\\angular\\server\\AuthAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Starca\\AppData\\Roaming\\NuGet\\NuGet.Config",
